@@ -1,0 +1,6 @@
+{
+  "name": "Tường học tập AI - Hệ thống Chấm bài & Truy gốc lỗi",
+  "description": "Nền tảng chấm bài học sinh tự động bằng AI đa phương thức: đọc chữ viết tay, chấm điểm từng bước, truy tìm nguồn gốc lỗi sai sư phạm và đề xuất bài tập khắc phục tức thì.",
+  "requestFramePermissions": ["camera"],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
